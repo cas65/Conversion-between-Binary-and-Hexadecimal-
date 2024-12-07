@@ -37,3 +37,6 @@ Convert the following:
 2. 5D → **01011101**  
 3. 10111001101 → **B6D**  
 4. 8F → **10001111**
+
+### Next Section 
+[Practice Exercises](https://github.com/cas65/Practice-exercises-.git)
