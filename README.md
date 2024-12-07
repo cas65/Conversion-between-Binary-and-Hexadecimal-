@@ -4,7 +4,7 @@
 Hexadecimal is more compact and easier to read than binary. Since one hexadecimal digit equals four binary digits (a nibble), converting between the two is quick.
 
 ### Binary to Hexadecimal
-To convert binary to hexadecimal, group the binary digits into sets of four (starting from the right). Add leading zeros if necessary.
+To convert binary to hexadecimal, group the binary digits into sets of four (starting from the right).
 
 **Example**:  
 Binary: 10111010 
